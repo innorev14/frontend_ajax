@@ -1,0 +1,6 @@
+__pychache__
+db.sqlite3
+staticfiles
+media
+venv/
+.idea/
